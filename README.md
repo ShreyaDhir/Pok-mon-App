@@ -1,6 +1,6 @@
 # Pokemon App
 
-![Pokemon-App Prototype](https://github.com/ShreyaDhir/Pokemon-App/blob/main/public/pa.png?raw=true)
+![Pokemon-App Prototype](https://github.com/ShreyaDhir/Pokemon-App/blob/main/pa.png?raw=true)
 
 **Quick start:**
 
